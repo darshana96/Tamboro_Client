@@ -21,9 +21,9 @@ Installing
 Clone the project to your local directory and follow the below instructions :  
 Question 1: HSV.js
 
-Question 2: game.js
+Question 2: game.html
 
-Question 3: gamewithcomputer.js
+Question 3: gamewithcomputer.html
 
 Note*: Answer for question 4 is attached in a document.
 
